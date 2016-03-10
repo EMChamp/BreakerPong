@@ -4,7 +4,7 @@ import ucigame.Image;
 import ucigame.Sound;
 import ucigame.Sprite;
 import ucigame.Ucigame;
-
+/* <applet code=HomeApplet width=850 height=600></applet> */
 public class Pong extends Ucigame
 {
 	//game objects
